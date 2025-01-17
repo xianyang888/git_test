@@ -2,6 +2,11 @@
 
 int main() {
     printf("Hello, world!\n");
+
+    // Read input from user
+    printf("Enter a number: ");
+
+        // Declare variables
     int n;
     scanf("%d", &n);    
     printf("You entered: %d\n", n);    
